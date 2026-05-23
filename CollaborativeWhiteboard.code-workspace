@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "name": "Backend",
+            "path": "backend"
+        },
+        {
+            "name": "Frontend",
+            "path": "frontend"
+        }
+    ],
+    "settings": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "extensions": {
+        "recommendations": [
+            "dbaeumer.vscode-eslint",
+            "esbenp.prettier-vscode",
+            "dsznajder.es7-react-js-snippets"
+        ]
+    }
+}
